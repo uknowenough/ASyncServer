@@ -1,3 +1,4 @@
+[![CMake](https://github.com/uknowenough/async-server/actions/workflows/cmake.yml/badge.svg?branch=main)](https://github.com/uknowenough/async-server/actions/workflows/cmake.yml)
 # ASync Server
 
 # Third-Party
